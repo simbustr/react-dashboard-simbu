@@ -1,0 +1,38 @@
+.filterlist{
+    margin-top: 10px;
+}
+
+
+.filtersearch {
+    margin-bottom: 23px!important;
+    width: 93%;
+    margin: 21px auto;
+}
+
+
+
+.ms-DetailsRow-cell.cell-104.cellUnpadded-102 {
+    border: 1px solid #e8e6e6!important;
+    border-bottom: none!important;
+    border-left: none;
+    border-top: none;
+}
+
+.lab2{
+    display: flex;
+    
+}
+.lab3{
+    display: flex;
+    margin-top: 10px;
+}
+.lab2 label{
+    width: 20%;
+}
+.lab3 label{
+    width: 20%;
+}
+
+.in1{
+    width:100%;
+}
